@@ -1,0 +1,26 @@
+{
+  "name": "overlayplugin-themes",
+  "version": "1.0.0",
+  "description": "rdmty_default.html<br/>\r rdmty_no_job_colors.html<br/>\r miniparseGlowIcon.html<br/>\r miniparseGlowIconBG.html<br/>\r miniparseGlowIconGraph.html<br/>\r miniparseGlowIconGraphBG.html<br/>\r miniparseNoIcon.html<br/>\r miniparseNoIconBG.html<br/>\r miniparseStdIcon.html<br/>\r miniparseStdIconBG.html<br/>\r miniparseStdIconGraph.html<br/>\r miniparseStdIconGraphBG.html<br/>",
+  "main": "testing.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianallred/OverlayPlugin-themes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christianallred/OverlayPlugin-themes/issues"
+  },
+  "homepage": "https://github.com/christianallred/OverlayPlugin-themes#readme",
+  "dependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
